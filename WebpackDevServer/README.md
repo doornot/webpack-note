@@ -1,9 +1,13 @@
 ### webpack-dev-server
 
-启动项目
+### Getting Started
 
+1. 本地启动项目
 ```sh
 npm run dev
 ```
 
-修改'./src/index.js并保存，查看浏览器控制台'
+2. 打包线上代码
+```sh
+npm run build
+```
